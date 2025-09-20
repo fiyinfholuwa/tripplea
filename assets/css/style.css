@@ -31084,3 +31084,38 @@ header.header-transparent.in-full-screen .action-area .menu-btn {
   --bs-gutter-y: 40px;
 }
 /*# sourceMappingURL=../maps/style.css.map */
+
+
+
+/* On mobile: stick it to the top */
+@media (max-width: 768px) {
+  .counter-about-area {
+  display: none;
+  }
+}
+
+
+.client-wrapper-one {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;              /* space between logos */
+  justify-content: center;
+}
+
+.client-wrapper-one a {
+  flex: 0 0 120px;        /* fixed box for each logo */
+  height: 120px;          /* same height for all */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee; /* optional: gives them same box look */
+  padding: 10px;
+  background: #fff;       /* keeps background clean */
+  border-radius: 8px;     /* optional rounding */
+}
+
+.client-wrapper-one a img {
+  max-height: 100%;       /* fit inside box */
+  max-width: 100%;
+  object-fit: contain;    /* scale proportionally */
+}
