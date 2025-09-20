@@ -31119,3 +31119,18 @@ header.header-transparent.in-full-screen .action-area .menu-btn {
   max-width: 100%;
   object-fit: contain;    /* scale proportionally */
 }
+
+/* Default (desktop / large screens) */
+.header-main-one-wrapper a img {
+  height: 100px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* On mobile screens */
+@media (max-width: 768px) {
+  .header-main-one-wrapper a img {
+    height: 60px;   /* smaller logo for mobile */
+  }
+}
