@@ -7874,7 +7874,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   justify-content: center;
   background: 
   linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), /* overlay */
-    url('https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/509308526_701732009410035_7376425430257375001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH2v56QdsbpOSg8EnulbZnNoTl935mGJiehOX3fmYYmJ9nHHSSJGR_CXfYKoJCQ5M2WwRkqHJ1tNFwiz9I58DzX&_nc_ohc=biQT07m8aVQQ7kNvwHlVncM&_nc_oc=AdkV1yKthw8xt54ds4tJfLQ04OcNJn26B-1Lhxdj6jqooY8Ov8HQEKOgdo-MrsUcb5S0UIpqCSpgAaAfEzCIw60J&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=Uvd6EY6nhIdYpYWBQSgzLg&oh=00_AfbkTGxlISW2QvQiNYAyyXIRsA0PkMGqw838ywl-MDkhCg&oe=68D08459');
+    url('../hero1.png');
   background-size: cover;
   background-position: center;
 }
@@ -7896,12 +7896,12 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 .rts-banner-area-two.two {
   background-image:
   linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), /* overlay */
-  url('https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/495868535_673706515545918_9212315210891480245_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF_ntmSvjee-S2iOec7Mi9yjC2fbLLnwF2MLZ9ssufAXf2U0HwKQKkHwBAysqV4l_RqUe4BjCygVRsY_aM2b7Sd&_nc_ohc=qVmSiGQv_j0Q7kNvwHbbht1&_nc_oc=AdlLhCF85Rtu8VcO1Md0k9q3ZPxshM4dEAYBwg9j4ZAbJGgFaZT6d88Gd3nfwByVYrSe_1PetCn3GJZAhq8MamY_&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=DgzEUxCnlnmmGtzQ91NABg&oh=00_AfaCL412AZ_YqdeaI0wcuv_WsGmaYXGhSHT_QgaYX5-sdQ&oe=68D0A3F8');
+  url('../hero2.png');
 }
 .rts-banner-area-two.three {
   background-image:   
   linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), /* overlay */
-  url('https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/487413824_640435658873004_503736568376968673_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGTurBKr8AVZlrf1vgvxxn_7ZSNBr3jXvPtlI0GveNe89u-MCsXVqrJxrSAxGZda1moeMKFGxLadB4Lnj6ImT4L&_nc_ohc=IidnIohgnQwQ7kNvwE3S2fG&_nc_oc=AdnKbFbSpY778kgPA0KnBcXCV4zqCH9c0fkzCObEQjg5TcMq1-wD8EIM-XoUSx-sH_oCmZ9ulc8i7_WGPoPhXSR9&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=FF068cHQrGxowCfJQPSbPg&oh=00_AfarqlisytpUZ2TGFw3RVByXRSSS1t7EKTTo3a8-pENYUQ&oe=68D0A239');
+  url('../hero3.png');
 }
 
 .banner-inner-two-content {
@@ -19392,7 +19392,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 .testimonials-main-wrapper-two .left-thumbnail {
   max-width: 545px;
   min-width: 545px;
-  background: #fff;
+  /* background: #fff; */
 }
 .testimonials-main-wrapper-two .right-content-testimonials {
   padding-left: 30px;
