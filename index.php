@@ -33,8 +33,8 @@
                         <div class="header-top-one-wrapper">
                             <div class="left">
                                 <div class="mail">
-                                    <a href="mailto:info@dr3plea.com"><i class="fal fa-envelope"></i>
-                                        info@dr3plea.com</a>
+                                    <a href="mailto:alfred.atiba@gmail.com"><i class="fal fa-envelope"></i>
+                                        alfred.atiba@gmail.com</a>
                                 </div>
                                 <!-- <div class="working-time">
                                     <p><i class="fal fa-clock"></i> Available: Mon - Fri, 9.00am - 6.00pm</p>
@@ -64,7 +64,7 @@
                     <div class="col-lg-12">
                         <div class="header-main-one-wrapper">
                             <div class="thumbnail">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="assets/images/logo.png" alt="dr-atiba-logo">
                                 </a>
 
@@ -743,7 +743,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="row">
                 <div class="col-lg-12">
                     <div class="testimonials-wrapper-swiper-demo-2">
@@ -752,50 +752,11 @@
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img style="border-radius: 20px;" src="assets/test2.jpeg"
+                                            <img style="border-radius: 20px; height: 300px;" src="assets/test2.jpeg"
                                                 alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-
-                                                Joining the High Performance Leadership Community, led by Dr. Atiba, has
-                                                been a transformative experience for me.
-
-                                                The structured reading schedule, where we summarized and reflected on
-                                                key chapters, not only boosted my discipline but also showed me that
-                                                reading can be a feasible part of even the busiest schedules. The
-                                                insights gained from every book read were invaluable.
-
-                                                The community's inspiring stories, articles, and videos of high
-                                                achievers instilled essential values for success.
-
-                                                Being part of a group with a growth mindset was incredibly motivating,
-                                                encouraging me to strive for personal growth.
-
-                                                I'm grateful for the supportive community and Dr. Atiba's coaching plus
-                                                dedication to helping others grow.
-
-                                                Highly recommended!
-
-                                            </p>
-                                            <div class="name-desig">
-                                                <h6 class="title">Tosin Dave - Ajayi</h6>
-                                                <p>Teacher, <b>Lead City High School
-                                                    </b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonials-main-wrapper-two">
-                                        <div class="left-thumbnail">
-                                            <img style="border-radius: 20px;" src="assets/test1.jpeg"
-                                                alt="testimonials">
-                                        </div>
-                                        <div class="right-content-testimonials">
-                                            <p class="disc">
-
-
                                                 Working with Dr. TripleA on our Technology Integration & Customer
                                                 Relationship Management at Presken Hotel was both impressive and deeply
                                                 motivating. His outstanding professionalism, combined with his unique
@@ -803,10 +764,15 @@
                                                 sustainable organizational improvements that continue to benefit us
                                                 today.
 
+
+                                                
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">Aderonke Kalejaye</h6>
-                                                <p>F&B, <b>Hospitality Industry, West Africa
+                                                <h6 class="title">                                                Aderonke Kalejaye
+                                                </h6>
+                                                <p>                                                F&B
+                                                    , <br>                                                Hospitality Industry, West Africa
+
                                                     </b></p>
                                             </div>
                                         </div>
@@ -815,13 +781,37 @@
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img style="border-radius: 20px;" src="assets/test3.jpeg"
+                                            <img style="border-radius: 20px; height: 300px;" src="assets/test1.jpeg"
                                                 alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
 
+                                                Dr. Atiba's executive retreat facilitation was transformational for our
+                                                core team.
 
+                                                His strategic approach to performance acceleration delivered measurable
+                                                outcomes that strengthened our competitive advantage.
+
+
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">PRESIDENT</h6>
+                                                <p>Adetunji Adekunle Wonders <br />PROFESSIONAL EVENT PLANNERS <br />
+                                                    AND VENDORS ASSOCIATION OF NIGERIA
+                                                    </b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img style="border-radius: 20px; height: 300px;" src="assets/test3.jpeg"
+                                                alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
                                                 Working with Coach Atiba has been a game-changer for my business. As I
                                                 position myself and navigate the route to building a good foundation for
                                                 a successful business, his expertise and strategic guidance has helped
@@ -843,26 +833,26 @@
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img style="border-radius: 20px;" src="assets/test4.jpeg"
+                                            <img style="border-radius: 20px; height: 300px;" src="assets/test4.jpeg"
                                                 alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                As a professional event host and media manager, I was seeking ways to
+                                                <!-- As a professional event host and media manager, I was seeking ways to
                                                 scale up both my personal services and corporate brand. Dr. Adeniyi
                                                 Atiba stepped in at a critical point, helping me identify structural
                                                 loopholes and guiding me with clear strategies for organizational
-                                                development and brand growth.
+                                                development and brand growth. -->
 
-                                                For instance, negotiating for what we believed was value was challenging
+                                                <!-- For instance, negotiating for what we believed was value was challenging
                                                 for us, but he helped develop strategic approaches to position the brand
-                                                better.
+                                                better. -->
 
-                                                His coaching has been both analytical and deeply inspiring. At a time
+                                                <!-- His coaching has been both analytical and deeply inspiring. At a time
                                                 when I was almost ready to give up on the vision for my brand, Dr. Atiba
                                                 reignited that passion, providing the clarity, leadership insights, and
                                                 professional development strategies that have propelled not only me as
-                                                an individual but also my media brand.
+                                                an individual but also my media brand. -->
 
                                                 Dr. Atiba embodies the skills of a transformational leader—offering
                                                 sharp analytical thinking, brand scaling strategies, and practical
@@ -871,9 +861,9 @@
                                                 need of growth, leadership restructuring, and sustainable business
                                                 solutions.
 
-                                                Though we are still a work in progress, I can boldly say we are better
+                                                <!-- Though we are still a work in progress, I can boldly say we are better
                                                 for his mentorship. Dr. Atiba is more than a coach—he is a catalyst for
-                                                growth, continuity, and excellence.
+                                                growth, continuity, and excellence. -->
 
 
                                             </p>
@@ -891,7 +881,7 @@
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img style="border-radius: 20px;" src="assets/test5.jpeg"
+                                            <img style="border-radius: 20px; height: 300px;" src="assets/test5.jpeg"
                                                 alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
@@ -920,24 +910,24 @@
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img style="border-radius: 50px;" src="assets/test6.jpeg"
+                                            <img style="border-radius: 50px; height: 300px;" src="assets/test6.jpeg"
                                                 alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
 
-                                                Working with Dr. Atiba has been a transformative experience. His
+                                                <!-- Working with Dr. Atiba has been a transformative experience. His
                                                 exceptional prowess in training is matched only by his deep
                                                 understanding of business dynamics and his strategic consulting skills.
                                                 Dr. Atiba has a rare ability to break down complex concepts into
-                                                actionable insights, making learning both accessible and impactful.
+                                                actionable insights, making learning both accessible and impactful. -->
 
-                                                His consulting approach is efficient, focused, and results-driven. He
+                                                <!-- His consulting approach is efficient, focused, and results-driven. He
                                                 doesn't just offer advice—he offers solutions that are practical,
                                                 tailored, and aligned with the unique needs of each business. Under his
                                                 guidance, we were able to streamline operations, improve team
                                                 performance, and identify new growth opportunities we hadn't previously
-                                                considered.
+                                                considered. -->
 
                                                 Dr. Atiba's contributions have had a direct and measurable impact on our
                                                 success. His blend of expertise, professionalism, and genuine commitment
@@ -968,7 +958,7 @@
     </div>
 
     <!-- Contact Form -->
-    <div class="appoinment-area-start rts-section-gapBottom" id="contact">
+    <div style="margin-top: -150px !important;" class="appoinment-area-start rts-section-gapBottom" id="contact">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7">
@@ -978,24 +968,27 @@
                             <span class="pre">Book Your Consultation</span>
                             <h2 class="title">Ready to Transform Your Leadership?</h2>
                         </div>
-                        <form action="#">
+                        <form id="consultationForm">
                             <div class="single-input-wrapper">
                                 <div class="single-input">
-                                    <input type="text" placeholder="Full Name" required>
+                                    <input type="text" name="fullname" placeholder="Full Name" required>
                                 </div>
                                 <div class="single-input">
-                                    <input type="text" placeholder="Organization" required>
+                                    <input type="text" name="organization" placeholder="Organization" required>
                                 </div>
                             </div>
                             <div class="single-input">
-                                <input type="email" placeholder="Email Address" required>
+                                <input type="email" name="email" placeholder="Email Address" required>
                             </div>
                             <div class="single-input mb--30">
-                                <textarea placeholder="Tell me about your leadership challenges and goals..."
-                                    required></textarea>
+                                <textarea name="message" placeholder="Tell me about your leadership challenges and goals..." required></textarea>
                             </div>
-                            <button class="rts-btn btn-primary">Book Consultation</button>
+                            <button type="submit" class="rts-btn btn-primary">Book Consultation</button>
                         </form>
+                        
+                        <!-- Success/Failure message -->
+                        <div id="formResponse" style="margin-top:15px;"></div>
+                        
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -1020,8 +1013,8 @@
                                 </div>
                                 <div class="information-wrapper">
                                     <span>Email Dr. TripleA</span>
-                                    <a href="mailto:info@dr3plea.com">
-                                        <h6 class="title">info@dr3plea.com</h6>
+                                    <a href="mailto:alfred.atiba@gmail.com">
+                                        <h6 class="title">alfred.atiba@gmail.com</h6>
                                     </a>
                                 </div>
                             </div>
@@ -1051,7 +1044,7 @@
 
         <div class="container bg-shape-f1">
             <div class="row pt--120 pt_sm--80 pb--80 pb_sm--40">
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
+                <div class="col-xl-6 col-md-6 col-sm-12 col-12">
                     <div class="footer-one-single-wized mid-bg">
                         <div class="wized-title">
                             <h5 class="title">Consultation Hours</h5>
@@ -1074,7 +1067,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12 pl--50 pl_sm--15">
+                <div class="col-xl-6 col-md-6 col-sm-12 col-12 pl--50 pl_sm--15">
                     <div class="footer-one-single-wized">
                         <div class="wized-title">
                             <h5 class="title">Quick Links</h5>
@@ -1097,11 +1090,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-6 col-sm-12 col-12">
+                <!-- <div class="col-xl-4 col-md-6 col-sm-12 col-12">
                     <div class="footer-one-single-wized margin-left-65">
                         <div class="wized-title">
                             <h5 class="title">Stay Connected</h5>
-                            <!-- <img src="assets/images/footer/01.html" alt="footer_line"> -->
                         </div>
                         <div class="body">
                             <div class="update-wrapper">
@@ -1117,7 +1109,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="rts-copyright-area">
@@ -1158,7 +1150,7 @@
                     <div class="wrapper">
                         <div class="single">
                             <i class="fas fa-envelope"></i>
-                            <a href="mailto:info@dr3plea.com">info@dr3plea.com</a>
+                            <a href="mailto:alfred.atiba@gmail.com">alfred.atiba@gmail.com</a>
                         </div>
                         <div class="single">
                             <i class="fas fa-globe"></i>
@@ -1305,6 +1297,37 @@
         </svg>
     </div>
 
+
+    <div id="toast" class="toast"></div>
+
+<style>
+.toast {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 16px;
+    position: fixed;
+    z-index: 9999;
+    left: 50%;
+    bottom: 30px;
+    font-size: 15px;
+    opacity: 0;
+    transition: opacity 0.5s, bottom 0.5s;
+}
+.toast.show {
+    visibility: visible;
+    opacity: 1;
+    bottom: 50px;
+}
+.toast.success { background-color: #28a745; }
+.toast.error { background-color: #dc3545; }
+</style>
+
+
     <!-- JavaScript Files -->
     <script src="assets/js/plugins/jquery.js"></script>
     <script src="assets/js/plugins/odometer.js"></script>
@@ -1318,6 +1341,37 @@
     <script src="assets/js/vendor/bootstrap.min.js"></script>
     <script src="assets/js/plugins/swiper.js"></script>
     <script src="assets/js/main.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+    function showToast(message, type="success") {
+        let toast = $("#toast");
+        toast.removeClass("success error").addClass(type);
+        toast.text(message).addClass("show");
+    
+        setTimeout(function(){
+            toast.removeClass("show");
+        }, 3000);
+    }
+    
+    $("#consultationForm").on("submit", function(e){
+        e.preventDefault();
+    
+        $.ajax({
+            url: "send_consultation.php",
+            type: "POST",
+            data: $(this).serialize(),
+            success: function(response){
+                showToast(response, "success");
+                $("#consultationForm")[0].reset();
+            },
+            error: function(){
+                showToast("Something went wrong. Please try again.", "error");
+            }
+        });
+    });
+    </script>
+    
 </body>
 
 </html>
